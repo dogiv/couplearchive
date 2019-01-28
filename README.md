@@ -8,7 +8,7 @@ To run this program, you will need to install the following:
 
 Chrome browser (https://www.google.com/chrome/)
 
-Chromedriver (http://chromedriver.chromium.org/downloads)
+Chromedriver (http://chromedriver.chromium.org/downloads) (just save it wherever)
 
 Python 3.x (I recommend Anaconda3) (https://www.anaconda.com/download/)
 
