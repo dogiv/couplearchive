@@ -34,6 +34,6 @@ In Anaconda, you would install those packages by doing the following:
   
   <blockquote>Click "Apply"</blockquote>
   
-Once everything is installed, save CoupleDownloader.py somewhere on your computer and run it by double-clicking. If for whatever reason it is not set up to run by double-clicking, you can run the Anaconda Prompt and run it by typing "python" and the full path to the script, e.g.
+Once everything is installed, save CoupleDownloader.py somewhere on your computer and run it by double-clicking. If for whatever reason it is not set up to run by double-clicking, you can run the Anaconda Prompt and run it by typing the full path to the script, e.g.
 
-python c:/users/ejb/downloads/coupledownloader.py
+"c:\users\ejb\downloads\coupledownloader.py"
