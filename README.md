@@ -14,25 +14,25 @@ Python 3.x (I recommend Anaconda3) (https://www.anaconda.com/download/)
 
 Some python packages:
 
-  Selenium
+  <blockquote>Selenium</blockquote>
   
-  BeautifulSoup4
+  <blockquote>BeautifulSoup4</blockquote>
   
 In Anaconda, you would install those packages by doing the following:
 
-  Open the Anaconda Navigator
+  <blockquote>Open the Anaconda Navigator</blockquote>
   
-  Click "Environments" on the left side
+  <blockquote>Click "Environments" on the left side</blockquote>
   
-  Select the "base (root)" environment
+  <blockquote>Select the "base (root)" environment</blockquote>
   
-  Click the drop-down box at the top that says "Installed" and change it to "All"
+  <blockquote>Click the drop-down box at the top that says "Installed" and change it to "All"</blockquote>
   
-  Search for the name of the package
+  <blockquote>Search for the name of the package</blockquote>
   
-  Click the checkbox next to the package (if it is not already checked)
+  <blockquote>Click the checkbox next to the package (if it is not already checked)</blockquote>
   
-  Click "Apply"
+  <blockquote>Click "Apply"</blockquote>
   
 Once everything is installed, save CoupleDownloader.py somewhere on your computer and run it by double-clicking. If for whatever reason it is not set up to run by double-clicking, you can run the Anaconda Prompt and run it by typing "python" and the full path to the script, e.g.
 
