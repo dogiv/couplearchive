@@ -1,5 +1,8 @@
 # couplearchive
 A program to download/save history from the Couple web app (couple.me)
+
+Update: the website went down permanently, so this program will no longer be useful.
+
 It will download all your "moments" files (or as many as you want). It will also download your chat history, subject to possible limitations of the browser (if you have a long chat history, Chrome may crash before it can load the whole thing).
 
 This script has only been tested on Windows 10, but might work on other systems.
